@@ -2,7 +2,7 @@
 
 Lab exercises and assignments for the Machine Learning course.
 
-## 📁 Files
+##  Files
 
 - `ML_Lab1_Zahra_2250030027.ipynb` – Lab 1
 - `ML_LAB02_ZAHRA_2250030027.ipynb` – Lab 2
@@ -10,10 +10,7 @@ Lab exercises and assignments for the Machine Learning course.
 - `Lab4_ML.ipynb` – Lab 4
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset
 
-## 🛠️ Tools
+##  Tools
 
-Python, Jupyter Notebook, Pandas, Scikit-learn
+Python, Jupyter Notebook, Pandas
 
-## 👤 Author
-
-Zahra Almzayan — 2250030027
