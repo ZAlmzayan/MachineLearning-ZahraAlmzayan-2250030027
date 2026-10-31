@@ -5,13 +5,15 @@ Lab exercises and assignments for the Machine Learning course.
 ##  Files
 
 - `ML_Lab1_Zahra_2250030027.ipynb` – Lab 1
+- `ML_Lab1_Zahra_2250030027.pdf` – Lab 1
 - `ML_LAB02_ZAHRA_2250030027.ipynb` – Lab 2
+- `ML_LAB02_ZAHRA_2250030027.pdf` – Lab 2
 - `Lab3_ML.ipynb` – Lab 3
 - `Lab4_ML.ipynb` – Lab 4
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset
-- 02_Logistic_Regression_Assignment.ipynb - Lab 7
-- Logistic Regression Assignment.pdf -Lab 7
-- advertising.csv - Dataset (used for Lab 7)
+- `02_Logistic_Regression_Assignment.ipynb` - Lab 7
+- `Logistic Regression Assignment.pdf` -Lab 7
+- `advertising.csv` - Dataset (used for Lab 7)
 
 ##  Tools
 
