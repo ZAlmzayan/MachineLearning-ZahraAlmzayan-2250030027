@@ -9,8 +9,9 @@ Lab exercises and assignments for the Machine Learning course.
 - `Lab3_ML.ipynb` – Lab 3
 - `Lab4_ML.ipynb` – Lab 4
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset
-- 02_Logistic_Regression_Assignment - Lab 7
-- advertising - Dataset (used for lab 7)
+- 02_Logistic_Regression_Assignment.ipynb - Lab 7
+- Logistic Regression Assignment.pdf -Lab 7
+- advertising.csv - Dataset (used for Lab 7)
 
 ##  Tools
 
