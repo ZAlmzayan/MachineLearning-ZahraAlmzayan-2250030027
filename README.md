@@ -14,7 +14,9 @@ Lab exercises and assignments for the Machine Learning course.
 - `02_Logistic_Regression_Assignment.ipynb` - Lab 7
 - `Logistic Regression Assignment.pdf` -Lab 7
 - `advertising.csv` - Dataset (used for Lab 7)
-
+- `02_K_Nearest_Neighbors_Assignment_Solution.pdf` - Lab 8
+- `02_K_Nearest_Neighbors_Assignment_Solution.ipynb`- Lab 8
+- `KNN_Project_Data.csv` - Dataset (used for Lab 8)
 ##  Tools
 
 Python, Jupyter Notebook, Pandas
