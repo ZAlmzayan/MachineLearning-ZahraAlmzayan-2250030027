@@ -17,6 +17,9 @@ Lab exercises and assignments for the Machine Learning course.
 - `02_K_Nearest_Neighbors_Assignment_Solution.pdf` - Lab 8
 - `02_K_Nearest_Neighbors_Assignment_Solution.ipynb`- Lab 8
 - `KNN_Project_Data.csv` - Dataset (used for Lab 8)
+- `02-Decision Trees and Random Forest Project.ipynb` - Lab 9
+- `02-Decision Trees and Random Forest Project.pdf` - Lab 9
+- `lona_data.csv` - Dataset (used for Lab 9)
 ##  Tools
 
 Python, Jupyter Notebook, Pandas
