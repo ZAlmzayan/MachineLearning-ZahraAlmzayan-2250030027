@@ -20,6 +20,8 @@ Lab exercises and assignments for the Machine Learning course.
 - `02-Decision Trees and Random Forest Project.ipynb` - Lab 9
 - `02-Decision Trees and Random Forest Project.pdf` - Lab 9
 - `lona_data.csv` - Dataset (used for Lab 9)
+- `02_SVM_Assignment.ipynb` - Lab 10
+- `02_SVM_Assignment.pdf` - Lab 10
 ##  Tools
 
 Python, Jupyter Notebook, Pandas
